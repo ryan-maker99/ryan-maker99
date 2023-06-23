@@ -15,5 +15,3 @@ Skills:  HTML / CSS/ PYTHON
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryan-maker99)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-maker99&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/ryan-maker99)  
