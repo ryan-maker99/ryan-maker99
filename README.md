@@ -1,8 +1,8 @@
 # Hi there 👋, I'm ryan-maker
+I'm Ryan from America, and I'm learning html/css/python I really enjoy how coding just clicks for me
 
 ## Learning html/css/python
 
-I'm Ryan from America, and I'm learning html/css/python I really enjoy how coding just clicks for me
 
 Skills:  HTML / CSS/ PYTHON
 
